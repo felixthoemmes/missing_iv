@@ -12,3 +12,6 @@ Files:
 - simulation_results\Simulation1.R
 - simulation_results\Simulation2.R
 - simulation_results\Simulation3.R
+- simulation_results\simulation1_data.RData
+- simulation_results\simulation2_data.RData
+- simulation_results\simulation3_data.RData
